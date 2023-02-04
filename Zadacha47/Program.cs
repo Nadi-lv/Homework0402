@@ -25,3 +25,4 @@ void PrintArray2D(double[,] array)
 var array = GenerateArray(3,4);
 PrintArray2D(array);
 
+
